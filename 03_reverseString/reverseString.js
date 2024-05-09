@@ -20,6 +20,10 @@ const reverseString = function(string) {
 //     return result;
 // }
 
+// Solution via Odin
+// const reverseStringMethod = function(string) {
+//     return string.split('').reverse().join('');
+// }
 
 // Do not edit below this line
 module.exports = reverseString;
